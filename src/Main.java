@@ -21,7 +21,7 @@ public class Main {
         short eee = 569;
         short ee1 = -159;
         long long1 = 27897;
-        byte klein = 67;
+        byte klein = 69;
 
         //Задача 3
         int studentA = 23;
